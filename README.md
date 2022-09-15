@@ -10,7 +10,7 @@ Although these constraints files work mostly, there were times that we need to c
 
 This project is a fork of these constraint files that helps us to be more flexible when we need to change pinned versions. Instead of using the official Airflow constraint files, we use our own fork.
 
-You can read [this excelent document](https://airflow.apache.org/docs/apache-airflow/stable/installation/installing-from-pypi.html?highlight=constraints#constraints-files) to learn more and to understand the concept of Python dependency constraints.
+You can read [this document](https://airflow.apache.org/docs/apache-airflow/stable/installation/installing-from-pypi.html?highlight=constraints#constraints-files) to learn more and to understand the concept of Python dependency constraints.
 
 ## How?
 
