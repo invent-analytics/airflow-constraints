@@ -58,7 +58,7 @@ ansiwrap==0.8.4
 anyio==3.6.1
 apache-airflow-providers-airbyte==3.1.0
 apache-airflow-providers-alibaba==2.0.1
-apache-airflow-providers-amazon==5.0.0
+apache-airflow-providers-amazon==5.1.0
 apache-airflow-providers-apache-beam==4.0.0
 apache-airflow-providers-apache-cassandra==3.0.0
 apache-airflow-providers-apache-drill==2.2.0
@@ -76,7 +76,7 @@ apache-airflow-providers-asana==2.0.1
 apache-airflow-providers-celery==3.0.0
 apache-airflow-providers-cloudant==3.0.0
 apache-airflow-providers-cncf-kubernetes==4.3.0
-apache-airflow-providers-common-sql==1.1.0
+apache-airflow-providers-common-sql==1.2.0
 apache-airflow-providers-databricks==3.2.0
 apache-airflow-providers-datadog==3.0.0
 apache-airflow-providers-dbt-cloud==2.1.0
@@ -111,7 +111,7 @@ apache-airflow-providers-oracle==3.3.0
 apache-airflow-providers-pagerduty==3.0.0
 apache-airflow-providers-papermill==3.0.0
 apache-airflow-providers-plexus==3.0.0
-apache-airflow-providers-postgres==5.2.0
+apache-airflow-providers-postgres==5.2.1
 apache-airflow-providers-presto==4.0.0
 apache-airflow-providers-qubole==3.2.0
 apache-airflow-providers-redis==3.0.0
