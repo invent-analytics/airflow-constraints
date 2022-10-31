@@ -113,7 +113,7 @@ apache-airflow-providers-oracle==3.4.0
 apache-airflow-providers-pagerduty==3.0.0
 apache-airflow-providers-papermill==3.0.0
 apache-airflow-providers-plexus==3.0.0
-apache-airflow-providers-postgres==5.2.2
+apache-airflow-providers-postgres==5.2.0
 apache-airflow-providers-presto==4.0.1
 apache-airflow-providers-qubole==3.2.1
 apache-airflow-providers-redis==3.0.0
