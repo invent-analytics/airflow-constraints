@@ -257,6 +257,7 @@ curlify==2.2.1
 dask==2023.4.1
 databricks-sql-connector==2.9.3
 datadog==0.47.0
+datadog-api-client==2.10.0
 db-dtypes==1.1.1
 decorator==5.1.1
 defusedxml==0.7.1
